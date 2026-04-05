@@ -159,7 +159,7 @@ Conversational AI ↔ System Control
                     │   (Listening / Processing)  │
                     └─────────────────────────────┘
 ```
-          `        
+
 🚀 Core Capabilities
 🧠 AI Decision Engine
 Claude-powered reasoning
