@@ -27,3 +27,8 @@ sounddevice==0.4.6
 soundfile==0.12.1
 psutil==5.9.6
 
+anthropic>=0.44.0
+python-dotenv
+pyautogui
+requests
+pyperclip
